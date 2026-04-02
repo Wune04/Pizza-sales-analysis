@@ -1,4 +1,4 @@
-# Pizza-sales-analysis
+# Pizza_sales_analysis
 This project analyses the sales data for fictonal pizza restaurant.
 
 The goal is to uncover insights about:
